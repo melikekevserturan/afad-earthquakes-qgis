@@ -1,0 +1,5 @@
+*.gpkg-wal
+*.gpkg-shm
+~$*
+*.qgz~
+*.qgd
