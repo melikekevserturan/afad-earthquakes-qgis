@@ -18,7 +18,7 @@ point layer, magnitude symbology, counts by province, and a choropleth map.
 
 ## 2. Magnitude symbology
 - Graduated symbology, 5 classes; size and color increase with magnitude
-![2](2_magnitude_symbology/map_preview.png)
+![2](02_magnitude_symbology/map_preview.png)
 
 ## 3. Earthquake counts by province
 - "Join attributes by location (summary)", predicate: intersects, count of EventID
@@ -28,7 +28,7 @@ point layer, magnitude symbology, counts by province, and a choropleth map.
 
 ## 4. Choropleth map
 - Graduated polygon symbology on EQ_COUNT, 5 classes, [Natural Breaks] used in the final map
-![4](4_choropleth/map_preview.png)
+![4](04_choropleth_map/map_preview.png)
 
 ## Structure
 `data/` · `assignment1_point_layer/` · `assignment2_magnitude_symbology/` ·
