@@ -1,0 +1,6 @@
+*.gpkg-wal
+*.gpkg-shm
+~$*
+*.qgz~
+*.qgd
+Data/TUR_idari_sinirlar/
